@@ -17,9 +17,5 @@
   </a>
 </p>
 
-<!-- LeetCode Stats Card -->
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/pauldin91?theme=dark&font=Nunito&ext=heatmap" />
-</p>
 
 

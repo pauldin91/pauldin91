@@ -8,7 +8,7 @@
 </p>
 
 
-<h2 align="center">My 💻 Tech Stack(s) & Tools </h2>
+<h2 align="center">Tech Stack & Tools </h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>

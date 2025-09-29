@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/pauldin91">
-    <img src="assets/hackerrank-badge.png" alt="HackerRank Badge" width="120"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&style=for-the-badge" alt="HackerRank"/>
   </a>
 </p>
+
+

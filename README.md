@@ -9,3 +9,17 @@
 | ------------- | ------------- |
   
 </p>
+
+
+<h2 align="center">Problem Solving</h2>  
+<p align="center">
+  <a href="https://leetcode.com/pauldin91/" target="_blank">
+  </a>
+</p>
+
+<!-- LeetCode Stats Card -->
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/pauldin91?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+

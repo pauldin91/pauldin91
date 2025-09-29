@@ -7,12 +7,16 @@
 
 </p>
 
-<h2 align="center">🏆 Problem Solving</h2>
+<h2 align="center">🏆 HackerRank Badges</h2>
 
 <p align="center">
   <a href="https://www.hackerrank.com/pauldin91">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&style=for-the-badge" alt="HackerRank"/>
+    <img src="assets/hackerrank/problem-solving-6stars.png" alt="Problem Solving 6 Stars" width="100"/>
+  </a>
+  <a href="https://www.hackerrank.com/pauldin91">
+    <img src="assets/hackerrank/cpp-5stars.png" alt="C++ 5 Stars" width="100"/>
   </a>
 </p>
+
 
 

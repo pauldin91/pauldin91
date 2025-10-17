@@ -1,10 +1,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<a href="https://github.com/pauldin91"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldin91&layout=compact&theme=radical&hide_border=true"/></a> 
-
-
+  <a href="https://github.com/pauldin91">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldin91&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 

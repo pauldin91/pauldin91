@@ -1,13 +1,4 @@
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/pauldin91">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldin91&cache_seconds=3600&layout=compact&theme=radical&exclude_repo=openGL-sphere&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-
-<h2 align="center">Stack & Tools </h2>
+## 📊 Stack & Tools 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -22,4 +13,12 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/pauldin91">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldin91&cache_seconds=3600&layout=compact&theme=radical&exclude_repo=openGL-sphere&hide_border=true" alt="Top Languages" />
+  </a>
 </p>

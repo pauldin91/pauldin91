@@ -23,8 +23,8 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/pauldin91">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldin91&cache_seconds=3600&layout=compact&theme=radical&exclude_repo=icosphere,openGL-sphere&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</p> -->
